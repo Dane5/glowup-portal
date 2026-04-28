@@ -16,8 +16,8 @@ const DEALERS = {
     location: "Jamaica, NY",
     reps: [
       { id: "REP-101", name: "Dane Rahh",   pin: "1234", salesNum: "GU-S-0101" },
-      { id: "REP-102", name: "Marcus Webb",    pin: "2345", salesNum: "GU-S-0102" },
-      { id: "REP-103", name: "Nadia Osei",     pin: "3456", salesNum: "GU-S-0103" },
+      { id: "REP-102", name: "Devon Rahh",    pin: "2345", salesNum: "GU-S-0102" },
+      { id: "REP-103", name: "Preston Rahh",     pin: "3456", salesNum: "GU-S-0103" },
     ],
   },
   "STORE-002": {
